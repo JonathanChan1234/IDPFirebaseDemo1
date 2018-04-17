@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IDPDemo2</string>
+    <string name="dialogTitle">Please enter the verification code (4 digits)</string>
+</resources>
